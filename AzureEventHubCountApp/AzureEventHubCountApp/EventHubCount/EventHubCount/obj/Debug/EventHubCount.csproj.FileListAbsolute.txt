@@ -1,0 +1,12 @@
+C:\Users\V-aryng\Documents\Azure Research\AzureEventHubCountApp\EventHubCount\EventHubCount\bin\Debug\EventHubCount.exe.config
+C:\Users\V-aryng\Documents\Azure Research\AzureEventHubCountApp\EventHubCount\EventHubCount\bin\Debug\EventHubCount.exe
+C:\Users\V-aryng\Documents\Azure Research\AzureEventHubCountApp\EventHubCount\EventHubCount\bin\Debug\EventHubCount.pdb
+C:\Users\V-aryng\Documents\Azure Research\AzureEventHubCountApp\EventHubCount\EventHubCount\bin\Debug\Microsoft.ServiceBus.dll
+C:\Users\V-aryng\Documents\Azure Research\AzureEventHubCountApp\EventHubCount\EventHubCount\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\V-aryng\Documents\Azure Research\AzureEventHubCountApp\EventHubCount\EventHubCount\bin\Debug\Microsoft.ServiceBus.xml
+C:\Users\V-aryng\Documents\Azure Research\AzureEventHubCountApp\EventHubCount\EventHubCount\obj\Debug\EventHubCount.csprojResolveAssemblyReference.cache
+C:\Users\V-aryng\Documents\Azure Research\AzureEventHubCountApp\EventHubCount\EventHubCount\obj\Debug\EventHubCount.exe
+C:\Users\V-aryng\Documents\Azure Research\AzureEventHubCountApp\EventHubCount\EventHubCount\obj\Debug\EventHubCount.pdb
+C:\Users\aryng\OneDrive\Documents\AzureInvestigation\AzureEventHubCountApp\AzureEventHubCountApp\EventHubCount\EventHubCount\bin\Debug\EventHubCount.exe.config
+C:\Users\aryng\OneDrive\Documents\AzureInvestigation\AzureEventHubCountApp\AzureEventHubCountApp\EventHubCount\EventHubCount\obj\Debug\EventHubCount.exe
+C:\Users\aryng\OneDrive\Documents\AzureInvestigation\AzureEventHubCountApp\AzureEventHubCountApp\EventHubCount\EventHubCount\obj\Debug\EventHubCount.pdb

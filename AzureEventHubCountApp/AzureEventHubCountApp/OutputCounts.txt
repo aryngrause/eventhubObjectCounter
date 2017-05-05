@@ -1,0 +1,17 @@
+eventhubcount5
+Partition: 0, LastEnqueuedSequenceNumber: 517370, BeginSequenceNumber: 0, Count: 517369
+Partition: 1, LastEnqueuedSequenceNumber: 517360, BeginSequenceNumber: 0, Count: 517359
+Partition: 2, LastEnqueuedSequenceNumber: 517589, BeginSequenceNumber: 0, Count: 517588
+Partition: 3, LastEnqueuedSequenceNumber: 517597, BeginSequenceNumber: 0, Count: 517596
+Partition: 4, LastEnqueuedSequenceNumber: 517337, BeginSequenceNumber: 0, Count: 517336
+Partition: 5, LastEnqueuedSequenceNumber: 517629, BeginSequenceNumber: 0, Count: 517628
+Partition: 6, LastEnqueuedSequenceNumber: 517830, BeginSequenceNumber: 0, Count: 517829
+Partition: 7, LastEnqueuedSequenceNumber: 518027, BeginSequenceNumber: 0, Count: 518026
+Partition: 8, LastEnqueuedSequenceNumber: 518052, BeginSequenceNumber: 0, Count: 518051
+Partition: 9, LastEnqueuedSequenceNumber: 517817, BeginSequenceNumber: 0, Count: 517816
+Partition: 10, LastEnqueuedSequenceNumber: 517128, BeginSequenceNumber: 0, Count: 517127
+Partition: 11, LastEnqueuedSequenceNumber: 516657, BeginSequenceNumber: 0, Count: 516656
+Partition: 12, LastEnqueuedSequenceNumber: 516879, BeginSequenceNumber: 0, Count: 516878
+Partition: 13, LastEnqueuedSequenceNumber: 517121, BeginSequenceNumber: 0, Count: 517120
+Partition: 14, LastEnqueuedSequenceNumber: 517121, BeginSequenceNumber: 0, Count: 517120
+Partition: 15, LastEnqueuedSequenceNumber: 517363, BeginSequenceNumber: 0, Count: 517362
